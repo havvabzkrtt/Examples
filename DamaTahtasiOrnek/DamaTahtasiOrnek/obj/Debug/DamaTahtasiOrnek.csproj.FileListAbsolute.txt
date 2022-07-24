@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\bin\Debug\DamaTahtasiOrnek.exe.config
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\bin\Debug\DamaTahtasiOrnek.exe
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\bin\Debug\DamaTahtasiOrnek.pdb
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.Form1.resources
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.Properties.Resources.resources
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.csproj.GenerateResource.cache
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.exe
+C:\Users\HP\Documents\C#\DamaTahtasiOrnek\DamaTahtasiOrnek\obj\Debug\DamaTahtasiOrnek.pdb
