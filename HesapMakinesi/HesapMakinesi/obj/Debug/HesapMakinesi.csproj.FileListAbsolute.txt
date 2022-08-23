@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\HP\source\repos\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\HP\source\repos\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\HP\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\HP\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\HP\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.HesapMakinesi.resources
+C:\Users\HP\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
